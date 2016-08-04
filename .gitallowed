@@ -1,0 +1,5 @@
+(^|:)[^:]+\.podspec(\.json|\.yaml)?:[0-9]+:
+:Gemfile.lock:[0-9]+:
+:git =>.*, :commit =>
+74e4ddbcef134170dcc844f91c691f13868075d7
+4178f4492557ddedf39d0c0e2b89dae84c0d8b01
